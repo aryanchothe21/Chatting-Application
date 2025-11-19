@@ -84,7 +84,7 @@ public class Client extends JFrame {
         profilePanel.setBackground(DARKER_BG);
         
         // Create a circular profile photo with icon
-        JPanel photoPanel = new JPanel() {
+        JPanel photoPanel = new JPanel() {}
             @Override
             protected void paintComponent(Graphics g) {
                 Graphics2D g2 = (Graphics2D) g.create();
