@@ -2,6 +2,8 @@
 💬 Java Chatting Application
 A real-time Client-Server Chat Application built using Java, Sockets, and Multithreading.
 This project demonstrates networking concepts and real-time communication between multiple clients.
+
+
 📌 Features
 🔹 Real-time messaging
 🔹 Multiple clients support
@@ -9,12 +11,16 @@ This project demonstrates networking concepts and real-time communication betwee
 🔹 Multithreading for handling multiple users
 🔹 Simple and user-friendly interface (Swing GUI / Console based)
 🔹 Automatic message broadcasting
+
+
 🛠️ Technologies Used
 Java (Core Java)
 Java Socket Programming
 Multithreading
 Java Swing (if GUI-based)
 OOP Concepts
+
+
 🏗️ Project Structure
 Copy code
 
@@ -25,6 +31,8 @@ Chatting-Application/
 ├── ClientHandler.java
 └── README.md
 ⚙️ How It Works
+
+
 The Server starts and listens on a specific port.
 Multiple Clients connect to the server using IP address and port number.
 Each client runs on a separate thread.
@@ -67,6 +75,7 @@ Hands-on experience with networking in Java.
 🔹 File sharing
 🔹 Database integration
 🔹 Message encryption
+
 👨‍💻 Author
 Aryan Chothe
 B.Tech Student | Java & Full Stack Developer
