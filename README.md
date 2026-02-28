@@ -24,7 +24,8 @@ OOP Concepts
 🏗️ Project Structure
 Copy code
 
-Chatting-Application/
+Chatting-Application
+/
 │
 ├── Server.java
 ├── Client.java
@@ -40,12 +41,12 @@ Messages sent by one client are broadcasted to all connected clients.
 🚀 How to Run
 Step 1: Compile Files
 Bash
-Copy code
+
 javac Server.java
 javac Client.java
 Step 2: Start Server
 Bash
-Copy code
+
 java Server
 Step 3: Start Client (in new terminal)
 Bash
